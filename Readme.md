@@ -12,7 +12,7 @@ Hi 👋! My name is Kishor and I'm a Student, from Kathmandu.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kishor0513&theme=dark&hide_border=false) &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor0513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp;
 
-<img src="https://raw.githubusercontent.com/Kishor0513/Kishor0513/output/snake.svg" alt="Snake animation" />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kishor0513&icon=2&color=0)](https://visitcount.itsvg.in)
