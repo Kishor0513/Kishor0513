@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋! My name is Kishor and I'm a Student, from Kathmandu.<br>
 
-<img src="https://raw.githubusercontent.com/kishor0513/kishor0513/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kishor0513/kishor0513/snake.svg" alt="Snake animation" />
 
 
 ## 🌐 Socials:
