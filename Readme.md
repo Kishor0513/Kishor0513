@@ -12,7 +12,7 @@ Hi 👋! My name is Kishor and I'm a Student, from Kathmandu.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor0513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp;
 
 **Feeding:**
-<img src="https://raw.githubusercontent.com/kishor0513/kishor0513/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/kishor0513/kishor0513/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
