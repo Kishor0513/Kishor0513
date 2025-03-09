@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi 👋! My name is Kishor and I'm a Student, from Kathmandu.<br>
 
+**Feeding:**
+![Snake animation](https://raw.githubusercontent.com/kishor0513/kishor0513/output/github-contribution-grid-snake-dark.svg)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xt2akuRQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kishor0513) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kishor-chaudhary-b97a702a7/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/kishorc2000/) 
 
@@ -11,8 +14,7 @@ Hi 👋! My name is Kishor and I'm a Student, from Kathmandu.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kishor0513&theme=dark&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor0513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp;
 
-**Feeding:**
-![Snake animation](https://raw.githubusercontent.com/kishor0513/kishor0513/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
 
