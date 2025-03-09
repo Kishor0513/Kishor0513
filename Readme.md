@@ -3,8 +3,6 @@ Hi 👋! My name is Kishor and I'm a Student, from Kathmandu.<br>
 
 <img src="https://raw.githubusercontent.com/kishor0513/kishor0513/output/snake.svg" alt="Snake animation" />
 
-###
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xt2akuRQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kishor0513) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kishor-chaudhary-b97a702a7/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/kishorc2000/) 
