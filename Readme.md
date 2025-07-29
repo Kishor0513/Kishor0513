@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi 👋! My name is Kishor and I'm a Student, from Kathmandu.<br>
+Hi 👋! I'm Kishor, a student from Kathmandu.  
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xt2ak)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/user/512922840014782473)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kishor0513/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishor-chaudhary-772b05314/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/5CZCw8q3Q)
@@ -15,7 +15,8 @@ Hi 👋! My name is Kishor and I'm a Student, from Kathmandu.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kishor0513&theme=dark&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor0513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp;
 
-**Feeding**:<br>
+**Feeding**:  
+
 ![Snake animation](https://raw.githubusercontent.com/kishor0513/kishor0513/output/github-contribution-grid-snake-dark.svg)<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Kishor0513&icon=2&color=0)](https://visitcount.itsvg.in)
