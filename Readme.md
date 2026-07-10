@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Kishor%20Chaudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20BIT%20Student&descAlignY=60"/>
@@ -68,4 +68,4 @@
 ### ⭐ Thanks for visiting my profile!
 
 </div>
-```
+
