@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Kishor%20Chaudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20BIT%20Student&descAlignY=60"/>
+
 
   <h1><strong>Hi 👋, I'm Kishor Chaudhary</strong></h1>
 
@@ -27,13 +27,7 @@
 
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,java,nodejs,react,tailwind,sass,mysql,firebase,azure,git,github,vscode,figma,notion,canva&perline=11" alt="tech stack"/>
 
-  <hr/>
 
-  <!-- Contributions calendar + overall stats + top languages -->
-
-  | 📊 GitHub Contributions | 🏆 Stats & Top Languages |
-  |---|---|
-  | ![contrib](https://raw.githubusercontent.com/Kishor0513/Kishor0513/main/output/github-contributions-calendar.svg) | ![langs](https://raw.githubusercontent.com/Kishor0513/Kishor0513/main/output/top-langs.svg) |
 
   <h2>🐍 Snake Contribution Graph</h2>
 
