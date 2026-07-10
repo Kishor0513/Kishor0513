@@ -29,6 +29,12 @@
 
   <hr/>
 
+  <!-- Contributions calendar + overall stats + top languages -->
+
+  | 📊 GitHub Contributions | 🏆 Stats & Top Languages |
+  |---|---|
+  | ![contrib](https://raw.githubusercontent.com/Kishor0513/Kishor0513/main/output/github-contributions-calendar.svg) | ![langs](https://raw.githubusercontent.com/Kishor0513/Kishor0513/main/output/top-langs.svg) |
+
   <h2>🐍 Snake Contribution Graph</h2>
 
   <img width="100%" src="https://raw.githubusercontent.com/Kishor0513/Kishor0513/output/github-contribution-grid-snake-dark.svg" alt="snake graph"/>
