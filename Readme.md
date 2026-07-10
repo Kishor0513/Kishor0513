@@ -39,21 +39,9 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,java,nodejs,react,tailwind,sass,mysql,firebase,azure,git,github,vscode,figma,notion,canva&perline=11"/>
 
----
-
-# 📊 GitHub Languages
-
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor0513&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 ---
 
-# 👾 Pacman Contribution Graph
-
-> **Requires the Pacman GitHub Action to generate the SVG.**
-
-<img width="100%" src="https://raw.githubusercontent.com/Kishor0513/Kishor0513/output/pacman-contribution-graph-dark.svg"/>
-
----
 
 # 🐍 Snake Contribution Graph
 
@@ -61,7 +49,7 @@
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=Kishor0513&icon=6&color=6"/>
+
 
 <br>
 
